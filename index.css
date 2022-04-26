@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    top: 20%;
+    text-align: center;
+    color: yellowgreen;
+   
+   
+    
+}
+h1{
+     text-align: center;
+     top: 10%;
+     color: chartreuse;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+ol{ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 30%;
+    text-align: center;
+    color: aqua;
+}
